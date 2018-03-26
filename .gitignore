@@ -1,0 +1,5 @@
+# QtCreator build
+/build-*
+
+# MSVC files
+*.pro.user
